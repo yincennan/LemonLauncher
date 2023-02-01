@@ -1,3 +1,5 @@
+
+
 ## LemonLauncher使用指南
 
 ### 关于启动器
@@ -38,56 +40,39 @@ HymnFo最推荐的一种登录方式，建议您使用此登录方式，如果�
 
 由于Python Minecraft-launcher-lib包的限制，软件不会自动进行版本隔离，需要您手动进行。在软件测试版通过后，HymnFo将会在下一版本添加上版本隔离功能。谢谢理解。
 
-### LemonLauncher内置终端
-
-您可以在主界面打开终端。命令指引如下：
-
-```
-launcher -login -microsoft
-```
-
-```
-launcher -login url [登录后的URL]
-```
+### LemonLauncher终端
 
 打开浏览器进行Microsoft登录
 
 ```
-launcher -login
-```
-
-添加离线临时账户
-
-```
-launcher -insall [minecraft version]
-```
-
-安装Minecraft
-
-```
-launcher -run [minecraft version]  -[user]
+login
 ```
 
 启动Minecraft
 
 ```
-launcher -quitMC
-```
-
-退出Minecraft
-
-```
-launcher -quitLauncher
+run
 ```
 
 退出LemonLauncher
+
+```
+quit_launcher
+```
+
+下载Minecraft
+
+```
+install
+```
+
+
 
 ### 鸣谢
 
 | 作者     | 联系方式             | 帮助                   |
 | -------- | :------------------- | ---------------------- |
 | Zheng ht | e2662020@outlook.com | 为启动器提供技术支持！ |
-|          |                      |                        |
 
 ### LemonLauncher开发参考
 
@@ -104,3 +89,8 @@ https://github.com/e2662020/Python-Minecraft-Luncher
 https://github/yincennan/LemonLauncher
 ```
 
+### LemonLauncher更新日志
+
+V1.0   此版本已废弃
+
+V1.2   此版本由终端控制，不支持Forge安装,考考虑到编码，英文终端
