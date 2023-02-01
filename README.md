@@ -10,7 +10,7 @@
 
 #### 报错声明
 
-LemonLauncher是由Python制作的。由于语言自身限制某些地方可能会报错。HymnFo用的是MacOS12，某些依赖可能会因为操作系统的更改而报错。如果您出现了Python报错的情况您需要把报错窗口截图发送至“yincennan@163.com（商业勿扰）”。对于窗口使用不适您可以向“yincennan@126.com”投稿UI界面设计。
+LemonLauncher是由Python制作的。由于语言自身限制某些地方可能会报错。HymnFo用的是MacOS12，某些依赖可能会因为操作系统的更改而报错。如果您出现了Python报错的情况您需要把报错窗口截图发送至“yincennan@163.com（商业勿扰）”。对于窗口使用不适您可以向“SweetLemonLauncher@163.com”投稿UI界面设计。
 
 #### LemonLauncher因Python本身退出
 
@@ -38,7 +38,7 @@ HymnFo最推荐的一种登录方式，建议您使用此登录方式，如果�
 
 ### 版本隔离
 
-由于Python Minecraft-launcher-lib包的限制，软件不会自动进行版本隔离，需要您手动进行。在软件测试版通过后，HymnFo将会在下一版本添加上版本隔离功能。谢谢理解。
+软件会自动进行版本隔离.
 
 ### LemonLauncher终端
 
@@ -73,14 +73,6 @@ install
 | 作者     | 联系方式             | 帮助                   |
 | -------- | :------------------- | ---------------------- |
 | Zheng ht | e2662020@outlook.com | 为启动器提供技术支持！ |
-
-### LemonLauncher开发参考
-
-```
-Mine.py
-https://github.com/e2662020/Python-Minecraft-Luncher
-```
-
 
 
 ### LemonLauncher更新发布页
