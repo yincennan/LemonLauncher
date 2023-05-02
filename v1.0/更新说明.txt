@@ -1,4 +1,0 @@
-(版本说明）
-version 1.0
-基础LemonLauncher
-此版本已废弃，无法使用
